@@ -1,0 +1,55 @@
+/* CSS Document */
+
+body {
+	font-family: 'Raleway', sans-serif;
+	margin:75px;
+	text-align:center;
+	background-image:url(images/s-l300.jpg);
+		}
+	
+
+table, td, th {
+	font-size: 25px;
+	text-decoration:none;
+}
+
+.title {
+	width:20%;
+	}
+
+table {
+	border-collapse:collapse;
+    width:100%;
+	margin-top:40px;
+}
+
+th {
+    height: 50px;
+}
+
+
+p {
+    padding: 75px 75px 75px 75px;
+}
+
+h1 {
+	font-size:50px;
+	background-color:white;
+	font-family: 'Poiret One', cursive;
+
+	}
+	
+#one{
+	font-size:25pt;
+	}
+	
+img {
+	border:white 5px dotted;
+	}
+	
+.next, .home{
+	width: 250px;
+	float:left;
+	
+	}
+	
